@@ -4,7 +4,7 @@ I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Sta
 
 ## Main Links
 
-🖥 [Website](https://reedturgeon.com)  
+🖥 [Personal Website / Portfolio](https://reedturgeon.com)  
 🔖 [Resume](https://docs.google.com/document/d/13DPm3TvQ_Lhh5_f97Rpcaa2kMh5tz9xogzhr38zkv9I/edit)
 
 ## Reach Out!
@@ -26,7 +26,7 @@ Specifically I am working to expand my skills with [React Testing Library](https
 | ---                                                                   | ---                     |
 | 🖥 [Live Link](https://turgeon-hackernews-clone.netlify.app/) 🖥      | 🖥 [Live Link](https://most-bestest-calculator.netlify.app) 🖥 |
 | Main Goal: Expand Testing Capabilities & Detailed Documentation       | Main Goal: Expand Testing Capabilities & Detailed Documentation
-| <img src="assets/HackerNewsClone.png" width='200'/>                   | <img src="assets/MostBestestCalculator.png" width='200'/> |
+| <p align="center"><img src="assets/HackerNewsClone.png" width='200'/></p>                   | <p align="center"><img src="assets/MostBestestCalculator.png" width='200'/></p> |
 
 ---
 
