@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Stack [Web Development Program](https://lambdaschool.com) and am looking for my first position in the industry!
+I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Stack [Web Development Program](https://lambdaschool.com/courses/full-stack-web-development) and am looking for my first position in the industry!
 
 ## Main Links
 
