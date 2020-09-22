@@ -22,8 +22,8 @@ Specifically I am working to expand my skills with [React Testing Library](https
 
 ### 🏋️ Recent Projects 🏋️
 
-| HackerNews Clone                                                      | Most Bestest Calculator |
-| ---                                                                   | ---                     |
+| Hacker News Clone                                                     | Most Bestest Calculator |
+| :-:                                                                   | :-:                     |
 | 🖥 [Live Link](https://turgeon-hackernews-clone.netlify.app/) 🖥      | 🖥 [Live Link](https://most-bestest-calculator.netlify.app) 🖥 |
 | Main Goal: Expand Testing Capabilities & Detailed Documentation       | Main Goal: Expand Testing Capabilities & Detailed Documentation
 | <p align="center"><img src="assets/HackerNewsClone.png" width='200'/></p>                   | <p align="center"><img src="assets/MostBestestCalculator.png" width='200'/></p> |
@@ -32,7 +32,7 @@ Specifically I am working to expand my skills with [React Testing Library](https
 
 ### 🏗 Previous Projects 🏗
 | BookShelf                                                                      | Conways Game of Life |
-| ---                                                                            | ---                  |
+| :-:                                                                            | :-:                  |
 | 🖥 [Live Link](https://my-book-shelf.netlify.app/login) 🖥                      | 🖥 [Live Link](https://turgeon-gameoflife.netlify.app) 🖥 |
 | Main Goal: Independently design & build a full RESTful Single Page Application | Main Goal: Practice simulation logic / generational algorithms |
 |   <p align="center"><img src="assets/BookShelf_Homepage.png" width='200'/></p><p align="center"><img src="assets/BookShelf_Profile.png" height='100'/></p>                  | <img src="assets/ConwaysGameOfLife.png" height='200'/> |
