@@ -22,17 +22,17 @@ Specifically I am working to expand my skills with [React Testing Library](https
 
 ### 🏋️ Recent Projects 🏋️
 
-| Hacker News Clone                                                     | Most Bestest Calculator |
-| :-:                                                                   | :-:                     |
-| 🖥 [Live Link](https://turgeon-hackernews-clone.netlify.app/) 🖥      | 🖥 [Live Link](https://most-bestest-calculator.netlify.app) 🖥 |
-| Main Goal: Expand Testing Capabilities & Detailed Documentation       | Main Goal: Expand Testing Capabilities & Detailed Documentation
-| <p align="center"><img src="assets/HackerNewsClone.png" width='200'/></p>                   | <p align="center"><img src="assets/MostBestestCalculator.png" width='200'/></p> |
+| Hacker News Clone                                                                                                                                | Most Bestest Calculator |
+| :-:                                                                                                                                              | :-:                     |
+| Main Goal: Expand testing capabilities with React Testing Library & Mock Service Worker                                                          | Main Goal: Expand testing capabilities with React Testing Library
+| 🖥 [Live Link](https://turgeon-hackernews-clone.netlify.app/) 🖥 ⎢ 👨‍💻 [CodeBase](https://github.com/MrT3313/HackerNewsClone_TakeHomeChallenge2) 👨‍💻 | 🖥 [Live Link](https://most-bestest-calculator.netlify.app) 🖥 ⎢ 👨‍💻 [CodeBase](https://github.com/MrT3313/MostBestestCalculator_TakeHomeChallenge1) 👨‍💻 |
+| <img src="assets/HackerNewsClone.png" width='200'/>                                                                                               | <img src="assets/MostBestestCalculator.png" width='200'/> |
 
 ---
 
 ### 🏗 Previous Projects 🏗
-| BookShelf                                                                      | Conways Game of Life |
-| :-:                                                                            | :-:                  |
-| 🖥 [Live Link](https://my-book-shelf.netlify.app/login) 🖥                      | 🖥 [Live Link](https://turgeon-gameoflife.netlify.app) 🖥 |
-| Main Goal: Independently design & build a full RESTful Single Page Application | Main Goal: Practice simulation logic / generational algorithms |
-|   <p align="center"><img src="assets/BookShelf_Homepage.png" width='200'/></p><p align="center"><img src="assets/BookShelf_Profile.png" height='100'/></p>                  | <img src="assets/ConwaysGameOfLife.png" height='200'/> |
+| BookShelf                                                                                                                            | Conways Game of Life |
+| :-:                                                                                                                                  | :-:                  |
+| Main Goal: Independently design & build a full RESTful Single Page Application                                                       | Main Goal: Practice simulation logic / generational algorithms |
+| 🖥 [Live Link](https://my-book-shelf.netlify.app/login) 🖥  ⎢ 👨‍💻 [CodeBase](https://github.com/MrT3313/BookShelf) 👨‍💻                  | 🖥 [Live Link](https://turgeon-gameoflife.netlify.app) 🖥 ⎢ 👨‍💻 [CodeBase](https://github.com/MrT3313/GameOfLife) 👨‍💻 |
+| <div><img src="assets/BookShelf_Homepage.png" width='275'/></div><div><img src="assets/BookShelf_Profile.png" height='125'/></div>   | <img src="assets/ConwaysGameOfLife.png" height='250'/> |
