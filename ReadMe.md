@@ -5,7 +5,7 @@ I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Sta
 ## Main Links
 
 🖥 [Personal Website / Portfolio](https://reedturgeon.com)  
-🔖 [Resume](https://docs.google.com/document/d/13DPm3TvQ_Lhh5_f97Rpcaa2kMh5tz9xogzhr38zkv9I/edit)
+🔖 [Resume](https://docs.google.com/document/d/1GRZZyMuSHbp_1TUMdJRn4Zi-aAFqW7rxYJu0kUeM7eY/edit)
 
 ## Reach Out!
 
