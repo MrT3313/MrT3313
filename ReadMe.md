@@ -22,7 +22,7 @@ I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Sta
 
 I completed the Angular `Tour of Heros` tutorial as a way to gain experience with Angular as part of a job interview.
 
-While it is a tutorial vs an independently designed & built project I did not directly copy the tutorial. The project structure and styling implementation is unique. You can gleam insight into my development process through the documented versions I went through while completing the project.
+While it is a tutorial vs an independently designed & built project I did not directly copy the tutorial. The project structure and styling implementation is unique. Additionally, you can gleam insight into my development process through the documented versions I went through while completing the project.
 
 👨‍💻 [CodeBase](https://github.com/MrT3313/Angular_TourOfHeros) 👨‍💻
 
