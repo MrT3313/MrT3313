@@ -16,6 +16,16 @@ I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Sta
 
 ## What Have I Been Working On?
 
+### <img src="assets/icons/angular.svg" height='25px'> Angular <img src="assets/icons/angular.svg" height='25px'>
+
+After a first round interview I was sent the Angular `Tour of Heros` tutorial as a way to gain experience with Angular should I move forward to subsequent rounds.
+
+While it is a tutorial vs an independently designed & built project I did not directly copy the tutorial. My structure and styling is unique and one can gleam insight into my development process through the documented versions I went through while completing the project.
+
+👨‍💻 [CodeBase](https://github.com/MrT3313/Angular_TourOfHeros) 👨‍💻
+
+---
+
 ### 🧪 **Testing** 🧪
 
 Specifically I am working to expand my skills with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) & [Mock Service Worker](https://mswjs.io)
