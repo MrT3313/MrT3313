@@ -18,13 +18,13 @@ I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Sta
 
 ### 🏋️ Recent Projects 🏋️
 
-### <img src="assets/icons/angular.svg" height='25px'> Angular <img src="assets/icons/angular.svg" height='25px'>
+### <img src="assets/icons/django.svg" height='50px'>
 
-I completed the Angular `Tour of Heros` tutorial as a way to gain experience with Angular as part of a job interview.
+... more coming soon 👀 
 
-While it is a tutorial vs an independently designed & built project I did not directly copy the tutorial. The project structure and styling implementation is unique. Additionally, you can gleam insight into my development process through the documented versions I went through while completing the project.
+### <img src="assets/icons/angular.svg" height='50px'>
 
-👨‍💻 [CodeBase](https://github.com/MrT3313/Angular_TourOfHeros) 👨‍💻
+I completed the Angular `Tour of Heros` [[Link to Codebase]](https://github.com/MrT3313/Angular_TourOfHeros) tutorial as a way to gain experience with Angular as part of a job interview.
 
 ### 🧪 **Testing** 🧪
 
