@@ -18,7 +18,7 @@ I am a recent graduate from [Lambda School's](https://lambdaschool.com) Full Sta
 
 ### 🏋️ Recent Projects 🏋️
 
-### <img src="assets/icons/django.svg" height='50px'>
+### <img src="assets/icons/django.svg" height='50px'> <img src="assets/icons/antDesign.svg" height='50px'>
 
 ... more coming soon 👀 
 
