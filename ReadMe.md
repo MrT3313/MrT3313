@@ -17,7 +17,5 @@ BUT ... you can still check out my 🧠 [What I Learned](https://github.com/WIL-
 
 🔗 [LinkedIn](https://www.linkedin.com/in/reedturgeon/)  
 
-📱 508-446-6633  
-
 📨 turgeon.dev@gmail.com
 
