@@ -5,17 +5,3 @@
 ---
 
 ### [Development Configs](https://github.com/Reed-Development-Configs)
-
----
-
-## Current Work
-My daily work is done in Bitbucket: No Green Squares 😢
-
-BUT ... you can still check out my 🧠 [What I Learned](https://github.com/WIL-what-i-learned) 🧠 series of repos! I am writing compainion articles for each of these repos that are coming soon 😊  
-
-## Reach Out!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/reedturgeon/)  
-
-📨 turgeon.dev@gmail.com
-
